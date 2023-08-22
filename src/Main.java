@@ -66,6 +66,9 @@ public class Main {
                 break;
 
             }
+            else {
+                System.out.println("Digite uma opção válida.");
+            }
 
 
         }
